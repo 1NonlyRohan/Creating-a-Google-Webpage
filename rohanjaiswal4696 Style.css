@@ -1,0 +1,221 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.img1 {
+    height: 100px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.input {
+    margin: -70px 0px 0px 160px;
+}
+
+#google {
+    padding: 5px;
+    width: 800px;
+    font-size: 16px;
+    box-shadow: 0px 0px 2px 2px rgb(192, 189, 189);
+}
+
+::placeholder {
+    color: black;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.image {
+    margin: -40px 0px 0px 1200px;
+}
+
+.image img {
+    height: 50px;
+    width: 160px;
+    cursor: pointer;
+}
+
+.header2 {
+    margin-top: 20px;
+    margin-left: 130px;
+}
+
+.header2 li {
+    display: inline;
+    margin-left: 40px;
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 16px;
+    color: grey;
+}
+
+.span1 {
+    text-decoration: underline;
+    color: blue;
+}
+
+.span2 {
+    margin-left: 230px;
+}
+
+.header2 p {
+    color: grey;
+    font-size: 12px;
+    margin: 12px 0px 10px 50px;
+}
+
+.mid .p1 {
+    color: blue;
+    margin: 20px 0px 0px 170px;
+    cursor: pointer;
+}
+
+.mid a {
+    color: green;
+    text-decoration: none;
+    margin: 20px 0px 0px 170px;
+}
+
+.mid .p2 {
+    margin: 10px 0px 0px 170px;
+    color: rgb(90, 90, 90);
+
+}
+
+.mid span {
+    color: rgb(153, 151, 151);
+}
+
+.mid .p3 {
+    margin: 0px 0px 0px 170px;
+    color: rgb(90, 90, 90);
+}
+
+.para1 {
+    background-color: rgb(240, 240, 240);
+    margin: 30px 400px 0px 170px;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.para1 p {
+    margin-left: 10px;
+    color: #787676;
+}
+
+.para2 {
+    background-color: rgb(240, 240, 240);
+    margin: 1px 400px 0px 170px;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.para2 p {
+    margin-left: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.para3 {
+    background-color: rgb(240, 240, 240);
+    margin: 1px 400px 0px 170px;
+    border-radius: 4px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.para3 p {
+    margin-left: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.para4 {
+    background-color: rgb(240, 240, 240);
+    margin: 1px 400px 0px 170px;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.para4 p {
+    margin-left: 10px;
+    color: black;
+    cursor: pointer;
+}
+
+.feed i {
+    margin-left: 880px;
+    color: rgb(117, 116, 116);
+    font-family: monospace;
+    cursor: pointer;
+}
+
+.mid3 .p1 {
+    color: blue;
+    margin: 20px 0px 0px 170px;
+    cursor: pointer;
+}
+
+.mid3 a {
+    color: green;
+    text-decoration: none;
+    margin: 20px 0px 0px 170px;
+}
+
+.mid3 .p2 {
+    margin: 10px 450px 0px 170px;
+    color: rgb(90, 90, 90);
+    display: block;
+}
+
+.mid3 span {
+    color: rgb(153, 151, 151);
+}
+
+.mid3 .p3 {
+    margin: 0px 0px 0px 170px;
+    color: rgb(90, 90, 90);
+}
+
+.mid4{
+    margin-bottom: 30px;
+}
+
+.mid4 .p1 {
+    color: blue;
+    margin: 20px 0px 0px 170px;
+    cursor: pointer;
+}
+
+.mid4 a {
+    color: green;
+    text-decoration: none;
+    margin: 20px 0px 0px 170px;
+}
+
+.mid4 .p2 {
+    margin: 10px 450px 0px 170px;
+    color: rgb(90, 90, 90);
+    display: block;
+}
+
+.mid4 span {
+    color: rgb(153, 151, 151);
+}
+
+.mid4 .p3 {
+    margin: 0px 0px 0px 170px;
+    color: rgb(90, 90, 90);
+}
