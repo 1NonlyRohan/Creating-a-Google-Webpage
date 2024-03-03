@@ -219,3 +219,34 @@ li a {
     margin: 0px 0px 0px 170px;
     color: rgb(90, 90, 90);
 }
+
+.mid5{
+    margin-bottom: 30px;
+}
+
+.mid5 .p1 {
+    color: blue;
+    margin: 20px 0px 0px 170px;
+    cursor: pointer;
+}
+
+.mid5 a {
+    color: green;
+    text-decoration: none;
+    margin: 20px 0px 0px 170px;
+}
+
+.mid5 .p2 {
+    margin: 10px 450px 0px 170px;
+    color: rgb(90, 90, 90);
+    display: block;
+}
+
+.mid5 span {
+    color: rgb(153, 151, 151);
+}
+
+.mid5 .p3 {
+    margin: 0px 0px 0px 170px;
+    color: rgb(90, 90, 90);
+}
